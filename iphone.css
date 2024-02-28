@@ -1,0 +1,44 @@
+body{
+   
+    background-image: url("C:\Users\HP\Downloads\download.jpeg");
+    
+}
+h1{
+    text-align: center;
+    color: black;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.logo{
+    
+    display: block;
+    margin: auto;/*center logo horizontally*/
+    max-width: 200px;/* adjust the size */
+    height:auto;
+}
+h3{
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div.jpg{
+    display: block;
+    margin: auto;/*center logo horizontally*/
+    max-width: 300px;/* adjust the size */
+    height:auto;
+
+}
+#hhhh{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
